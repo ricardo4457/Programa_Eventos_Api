@@ -78,6 +78,10 @@ Git Setup :
 
 https://www.youtube.com/watch?v=cAnWazo5pFU&ab_channel=MaxRohowsky
 
+Setup Django :
+
+https://www.youtube.com/watch?v=s_79O4zwCZg&ab_channel=MaxRohowsky
+
 Setup Basis Tutorial:
 
 https://www.youtube.com/watch?v=nGIg40xs9e4&t=103s&ab_channel=TechWithTim
