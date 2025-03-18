@@ -86,6 +86,10 @@ Django as Rest :
 
 https://www.youtube.com/watch?v=NoLF7Dlu5mc&t=10s&ab_channel=PedroTech
 
+Setup Swagger :
+
+https://www.youtube.com/watch?v=XBxssKYf5G0&ab_channel=VeryAcademy
+
 Setup Basis Tutorial:
 
 https://www.youtube.com/watch?v=nGIg40xs9e4&t=103s&ab_channel=TechWithTim
