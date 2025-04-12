@@ -1,0 +1,3 @@
+[submodule "api_eventos_python"]
+	path = api_eventos_python
+	url = https://github.com/ricardo4457/api-eventos-python
